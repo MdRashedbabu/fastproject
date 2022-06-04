@@ -1,0 +1,30 @@
+h1{
+color: aqua;
+padding: auto;
+margin-left:600px;
+}
+h3{
+    color: blueviolet;
+    padding: auto;
+    margin-left:660px;
+}
+div{
+    margin: 100px;
+}
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+td{
+    border:1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+table{
+    width: 800px;
+}
+.class{
+    background-color: rgb(177, 170, 183);
+    color:blue
+}

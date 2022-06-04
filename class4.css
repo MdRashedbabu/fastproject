@@ -1,0 +1,31 @@
+h1{
+    background: rgb(37, 218, 27);
+    margin: 15px;
+
+}
+h4{
+    color: blue;
+    margin: 15px;
+    background: yellowgreen;
+}
+.class1{
+    background: bisque;
+}
+.class2{
+    background: rgb(165, 216, 167);
+}
+.class3{
+    background: rgb(29, 101, 6);
+}
+.class4{
+    background: yellow;
+}
+.class5{background: yellowgreen;
+
+}
+.class{
+    margin: 15px;
+    border: 20px;
+    padding: 20px;
+    color: rgb(241, 11, 11);
+}
